@@ -1,11 +1,10 @@
-# Ribbbon
+# AMA
 
 _V 2.2_
 
 
-[Ribbbon.com](http://ribbbon.com)
 
-Ribbbon is a project management system built on Laravel 5.1.* & Vue.js :)
+AMA is a project management system built on Laravel 5.1.* & Vue.js :)
 
 # Features
   - User / account creation
