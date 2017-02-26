@@ -131,7 +131,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h3>Current Version <span class="color-primary">2.2</span> | <a class="color-primary" href="https://github.com/canvasowl/AMA" target="_blank">Go To Project</a></h3>
+                    <h3>Current Version <span class="color-primary">1.0.2</span> | <a class="color-primary" href="https://github.com/bigbabert/levelup" target="_blank">Go To Project</a></h3>
                     <hr class="special">
                     <p class="text-center last-line">Copyright {{ date("Y") }} &copy;  <a href="https://accenture.com" target="_blank">AMA</a></p>
                 </div>
